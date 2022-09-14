@@ -1,2 +1,2 @@
-# reposit-rio-treino
+# repositório-treino
 repositório para treino
