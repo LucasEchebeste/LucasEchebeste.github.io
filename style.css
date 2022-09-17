@@ -7,6 +7,9 @@ h1 {
 
 .paragrafo {
     font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    top: 40px;
+    right: 400px;
 }
 
 body {
@@ -51,4 +54,5 @@ div {
 
 .imagem-container {
     height: 200px;
+    position: relative;
 }
