@@ -44,6 +44,9 @@ div {
 
 #imagem-posicao {
     float: left;
+    height: 180px;
+    padding: 10px;
+    background-color: blue;
 }
 
 .imagem-container {
