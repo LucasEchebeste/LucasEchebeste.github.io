@@ -17,12 +17,12 @@ body {
 }
 
 .lugarquemoro {
-    font-size: 30px;
+    font-size: 18px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .adapta {
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .comunica {
@@ -34,22 +34,21 @@ body {
 }
 
 .organizacao {
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .empatia {
-    font-size: 35px;
+    font-size: 25px;
 }
 
-div {
-    border: 4px solid lightskyblue;
-}
+
 
 #imagem-posicao {
     float: left;
-    height: 180px;
     padding: 10px;
-    background-color: blue;
+    border-radius: 100%;
+    border: 2px solid black;
+   
 }
 
 .imagem-container {
@@ -57,7 +56,5 @@ div {
     position: relative;
 }
 
-ul li:nth-child(odd) {
-    background-color:brown;
-}
+
 
