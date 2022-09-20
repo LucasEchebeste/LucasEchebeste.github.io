@@ -1,0 +1,69 @@
+
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.paragrafo {
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    top: 40px;
+    right: 400px;
+}
+
+body {
+    background-color: lightcyan;
+}
+
+.lugarquemoro {
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.adapta {
+    font-size: 25px;
+}
+
+.comunica {
+    font-size: 25px;
+}
+
+.gerir {
+    font-size: 25px;
+}
+
+.organizacao {
+    font-size: 25px;
+}
+
+.empatia {
+    font-size: 25px;
+}
+
+
+.posicao-listas {
+    display: inline;
+}
+
+
+#lista-direita {
+    float: right;
+}
+
+
+#imagem-posicao {
+    float: left;
+    padding: 10px;
+    border-radius: 100%;
+    border: 2px solid black;
+   
+}
+
+.imagem-container {
+    height: 200px;
+    position: relative;
+}
+
+
+
