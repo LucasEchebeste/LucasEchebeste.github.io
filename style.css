@@ -42,6 +42,15 @@ body {
 }
 
 
+.posicao-listas {
+    display: inline;
+}
+
+
+#lista-direita {
+    float: right;
+}
+
 
 #imagem-posicao {
     float: left;
